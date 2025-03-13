@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Header image] ()
+I am a beginner cybersecurity specialist who is ready to learn new technologies to better provide security to companies.
+
+## ⚡ Skills:
+- Node.js
+- TypeScript
+- NestJS
+- Ethereum
