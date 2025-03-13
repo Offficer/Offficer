@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header image] (https://raw.githubusercontent.com/Offficer/Offficer/master/roo-Officer.png)
+![Header image] (https://raw.githubusercontent.com/Offficer/Offficer/master/root-Officer.png)
 I am a beginner cybersecurity specialist who is ready to learn new technologies to better provide security to companies.
 
 ## ⚡ Skills:
