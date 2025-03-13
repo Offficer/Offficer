@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 
 I am a beginner cybersecurity specialist who is ready to learn new technologies to better provide security to companies.
 
-## ⚡ Skills:
-- Node.js
-- TypeScript
-- NestJS
-- Ethereum
+## ⚡ Tools:
+- Burp Suite/ZAP
+- Curl 
+- Nmap
+- Wireshark 
+- Metasploit
+- Ffuf
+- Gobuster
+
