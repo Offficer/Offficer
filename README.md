@@ -26,3 +26,6 @@ I am a beginner cybersecurity specialist who is ready to learn new technologies 
 - Ffuf
 - Gobuster
 
+## ⚡ OS:
+- Windows
+- Linux (Kali/Fedora)
