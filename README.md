@@ -26,7 +26,7 @@ Seeking an internship or Junior SOC Analyst position to deepen my knowledge in c
 - **Digital Forensics and Malware Analysis:** VirusTotal
 - **Programming and Automation:** Python, Bash
 
-## 🤔 OS:
+## ⚙ OS:
 - Windows
 - Linux (Kali/Fedora)
 
