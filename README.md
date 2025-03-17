@@ -15,17 +15,26 @@ Here are some ideas to get you started:
 
 ![Header image](https://raw.githubusercontent.com/Offficer/Offficer/master/Officer.png)
 
-I am a beginner cybersecurity specialist who is ready to learn new technologies to better provide security to companies.
+Seeking an internship or Junior SOC Analyst position to deepen my knowledge in cybersecurity and contribute to the security of modern IT infrastructures. I am eager to learn new technologies and enhance my skills in threat detection and incident response.
 
-## ⚡ Tools:
-- Burp Suite/ZAP
-- Curl 
-- Nmap
-- Wireshark 
-- Metasploit
-- Ffuf
-- Gobuster
+## ⚡ Skills:
+- **Network Analysis and Monitoring:** Wireshark, Nmap, Curl
+- **Web Application Security Testing:** Burp Suite, OWASP ZAP
+- **Vulnerability Scanning and Exploitation:** Metasploit
+- **Directory and Subdomain Enumeration:** Ffuf, Gobuster
+- **Log Management and Data Analysis:** ELK Stack
+- **Digital Forensics and Malware Analysis:** VirusTotal
+- **Programming and Automation:** Python, Bash
 
-## ⚡ OS:
+## 🤔 OS:
 - Windows
 - Linux (Kali/Fedora)
+
+## 💬 Languages:
+- English: C1
+- Ukrainian: С2
+- Russian: С2
+
+
+
+
