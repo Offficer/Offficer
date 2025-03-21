@@ -22,7 +22,7 @@ Seeking an internship or Junior SOC Analyst position to deepen my knowledge in c
 - **Web Application Security Testing:** Burp Suite, OWASP ZAP
 - **Vulnerability Scanning and Exploitation:** Metasploit
 - **Directory and Subdomain Enumeration:** Ffuf, Gobuster
-- **Log Management and Data Analysis:** ELK Stack
+- **Log Management and Data Analysis:** ELK Stack, Event Viewer
 - **Digital Forensics and Malware Analysis:** VirusTotal
 - **Programming and Automation:** Python, Bash
 
