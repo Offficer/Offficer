@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Seeking an internship or Junior SOC Analyst position to deepen my knowledge in cybersecurity and contribute to the security of modern IT infrastructures. I am eager to learn new technologies and enhance my skills in threat detection and incident response.
 
 ## ⚡ Skills:
-- **Network Analysis and Monitoring:** Wireshark, Nmap, Curl
+- **Network Analysis and Monitoring:** Wireshark, Nmap, Curl, Zeek
 - **Web Application Security Testing:** Burp Suite, OWASP ZAP
 - **Vulnerability Scanning and Exploitation:** Metasploit
 - **Directory and Subdomain Enumeration:** Ffuf, Gobuster
